@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/r-k-pathak/TypeScript#readme",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
   }
